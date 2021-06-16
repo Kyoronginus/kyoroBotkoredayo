@@ -7,7 +7,6 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 discord = "^1.0.1"
-heroku create myapp --buildpack heroku/python
 
 [tool.poetry.dev-dependencies]
 
